@@ -1,6 +1,6 @@
 # How Many Businesses Are Using AI? 
 
-This repository creates the figures for the substack post "How Many Businesses Are Using AI?" by Nathan Goldschlag, posted December 19, 2025. 
+This repository creates the figures for the substack post ["How Many Businesses Are Using AI?"](https://agglomerations.substack.com/p/how-many-businesses-are-using-ai) by Nathan Goldschlag, posted December 19, 2025. 
 
 ## Programs 
 
